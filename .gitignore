@@ -1,0 +1,5 @@
+venv_PythonSDA/
+.idea/
+__pycache__/
+*.pyc
+
